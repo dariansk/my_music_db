@@ -66,7 +66,11 @@ INSERT INTO track (track_name, track_duration, album_id)
     ('I Want to Live', 208, 7),
     ('Lions', 229, 7),
     ('Это мой мир', 260, 4),
-    ('Burn It Down', 304, 7);
+    ('Burn It Down', 304, 7),
+    ('Wrong Wrong Wrong', 193, 6),
+    ('Burn It', 304, 6),
+    ('Tigers', 229, 1),
+    ('November Has Gone', 203, 6);
 
 INSERT INTO GenreArtist (genre_id, artist_id)
     VALUES
